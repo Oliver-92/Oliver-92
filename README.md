@@ -47,12 +47,7 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Oliver-92&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-</td>
-
 </tr>
 </table>
 
