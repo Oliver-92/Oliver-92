@@ -1,6 +1,6 @@
 ## Hi! I am Ezequiel Oliver 👋
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 
 I am Ezequiel Oliver, 32 years old, and originally from the city of La Plata, Buenos Aires, Argentina. I am passionate about web development and data analysis.
 As a web developer, I am primarily focused on front-end development, with skills for creating attractive and functional user interfaces.
@@ -12,7 +12,7 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
 - 👯 I am seeking the opportunity to collaborate with an IT team and contribute my skills in a meaningful way.
 - 📫 How to reach me: ezequiel.oliver@live.com.ar
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> My Skills Include
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> My Skills Include
 
 <h4> Languages </h4>
 <span> 
@@ -45,9 +45,10 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
 </a>
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  Github Stats
 
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oliver-92&show_icons=true&theme=dark&locale=en" alt="Oliver-92" /></span>
+<br><br><br>
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oliver-92&theme=dark" alt="Oliver-92" /></span>
 
 
