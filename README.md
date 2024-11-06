@@ -44,6 +44,10 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
