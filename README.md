@@ -1,5 +1,7 @@
 ## Hi! I am Ezequiel Oliver 👋
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 I am Ezequiel Oliver, 32 years old, and originally from the city of La Plata, Buenos Aires, Argentina. I am passionate about web development and data analysis.
 As a web developer, I am primarily focused on front-end development, with skills for creating attractive and functional user interfaces.
 As a data analyst, I have experience in exploratory analysis and data visualization. I have also gained knowledge in machine learning, enabling me to tackle complex problems and extract value from data.
