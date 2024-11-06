@@ -12,7 +12,7 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
 - 👯 I am seeking the opportunity to collaborate with an IT team and contribute my skills in a meaningful way."
 - 📫 How to reach me: ezequiel.oliver@live.com.ar
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>My Skills Include
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> My Skills Include
 
 <h4> Languages </h4>
 <span> 
@@ -47,6 +47,18 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oliver-92&show_icons=true&theme=dark&locale=en&layout=compact" alt="Oliver-92" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Oliver-92&show_icons=true&theme=dark&locale=en" alt="Oliver-92" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Oliver-92&theme=dark" alt="Oliver-92" /></p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
