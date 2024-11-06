@@ -12,7 +12,7 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
 - 👯 I am seeking the opportunity to collaborate with an IT team and contribute my skills in a meaningful way."
 - 📫 How to reach me: ezequiel.oliver@live.com.ar
 
-## My Skills Include
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>My Skills Include
 
 <h4> Languages </h4>
 <span> 
