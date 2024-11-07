@@ -47,8 +47,7 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  Github Stats
 
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oliver-92&show_icons=true&theme=dark&locale=en" alt="Oliver-92" /></span>
-<br><br><br>
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oliver-92&theme=dark" alt="Oliver-92" /></span>
+[![](https://github-readme-stats.vercel.app/api?username=Oliver-92&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Oliver-92)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Oliver-92&theme=material-palenight)](https://github.com/Oliver-92)
 
 
