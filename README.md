@@ -8,7 +8,7 @@ As a data analyst, I have experience in exploratory analysis and data visualizat
 I consider myself a curious and persistent person, oriented toward problem-solving. I am passionate about continuously learning and facing new challenges. I am ready to take my skills to the next level in projects that combine creativity and logic.
 
 - 🔭 Currently, I am working on personal projects to improve my skills.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React with Vite.
 - 👯 I am seeking the opportunity to collaborate with an IT team and contribute my skills in a meaningful way.
 - 📫 How to reach me: ezequiel.oliver@live.com.ar
 - 🌐 Check my <a href ='https://github.com/Oliver-92/Portafolio'>Web Portfolio</a>
