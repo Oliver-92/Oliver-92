@@ -11,7 +11,7 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
 - 🌱 I’m currently learning JavaScript.
 - 👯 I am seeking the opportunity to collaborate with an IT team and contribute my skills in a meaningful way.
 - 📫 How to reach me: ezequiel.oliver@live.com.ar
-- 🌐 My <a href ='https://github.com/Oliver-92/Portafolio'>Web Portfolio</a>
+- 🌐 Check my <a href ='https://github.com/Oliver-92/Portafolio'>Web Portfolio</a>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> My Skills Include
 
