@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 
-I am Ezequiel Oliver, 32 years old, and originally from the city of La Plata, Buenos Aires, Argentina. I am passionate about web development and data analysis.
+I am Ezequiel Oliver, 33 years old, and originally from the city of La Plata, Buenos Aires, Argentina. I am passionate about web development and data analysis.
 As a web developer, I am primarily focused on front-end development, with skills for creating attractive and functional user interfaces.
 As a data analyst, I have experience in exploratory analysis and data visualization. I have also gained knowledge in machine learning, enabling me to tackle complex problems and extract value from data.
 I consider myself a curious and persistent person, oriented toward problem-solving. I am passionate about continuously learning and facing new challenges. I am ready to take my skills to the next level in projects that combine creativity and logic.
@@ -11,7 +11,7 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
 - 🌱 I’m currently learning React with Vite.
 - 👯 I am seeking the opportunity to collaborate with an IT team and contribute my skills in a meaningful way.
 - 📫 How to reach me: ezequiel.oliver@live.com.ar
-- 🌐 Check my <a href ='https://github.com/Oliver-92/Portafolio'>Web Portfolio</a>
+- 🌐 Check my <a href ='https://oliver-92.github.io/Portafolio/'>Web Portfolio</a>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> My Skills Include
 
@@ -21,24 +21,30 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</span>
-
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<h4> Tools and Technologies with Python </h4>
+
+<h4> Frameworks and Other Tools </h4>
+<span>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white">
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">
+</span>
+
+<h4> Tools and Technologies with Python for Data </h4>
 <span>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 </span>
 
 ## Check out my Linkedin
