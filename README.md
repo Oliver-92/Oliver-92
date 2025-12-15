@@ -18,7 +18,7 @@ I consider myself a curious and persistent person, oriented toward problem-solvi
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
